@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SEF - Participants Workspace/SEF/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SEF - Participants Workspace/SEF/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SEF - Participants Workspace/SEF/lib/mysql-connector-java-5.1.6-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

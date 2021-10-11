@@ -24,23 +24,19 @@ public class OperatorActivity {
         int addition = i + j;
 
         // Print result
-        System.out.println("Addition = " + addition);
+        System.out.println("Addition result is " + addition);
 
-        //Multiplication
+        //Multiply numbers
+        int multiplication = i * j;
+        System.out.println("Multiplication result is " + multiplication);
 
-        int multiply = i * j;
-
-        System.out.println("Multiplication = " + multiply);
-
-        //Division
-        double division = (double) i / (double) j;
-        System.out.println("Division = " + division);
+        //Divide numbers
+        int division = i / j;
+        System.out.println("Division result is " + division);
 
         //Modulo
-        int modulo = j % i;
-        System.out.println("Modulo = " + modulo);
-
+        int modulo = i %j;
+        System.out.println("Modulo " + modulo);
 
     }
-
 }

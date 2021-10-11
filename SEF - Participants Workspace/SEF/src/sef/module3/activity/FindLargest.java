@@ -13,9 +13,9 @@ public class FindLargest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
+
 		// Find Largest of two numbers
-				
+
 		int num1 = 1, num2 = 2;
 
 		if (num1 > num2) {
@@ -25,25 +25,24 @@ public class FindLargest {
 		}
 
 		// Find Largest of three numbers
-				
+
 		int i = 1, j = 2, k = 10;
-		
+
 		if (i > j) {
 			if (i > k)// complete code
 			{
 				System.out.println(i + " is Largest of three numbers");
 			} else {
-				System.out.println(k+ " is Largest of three numbers");
+				System.out.println(k + " is Largest of three numbers");
 			}
 		} else {
 			if (j > k)// complete code
 			{
-				System.out.println(j+ " is Largest of three numbers");
+				System.out.println(j + " is Largest of three numbers");
 			} else {
-				System.out.println(k+ " is Largest of three numbers");
+				System.out.println(k + " is Largest of three numbers");
 			}
 		}
-		
 
 
 	}

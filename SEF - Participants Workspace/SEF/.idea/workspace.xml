@@ -1,17 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a37c871c-23d9-4e39-8636-e421069684f0" name="Changes" comment="" />
+    <list default="true" id="e1bd4673-b281-4630-a002-21ea6c5c95e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module4/activity/DateActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/activity/AbstractionActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/activity/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project_Kris/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project_Kris/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project_Kris/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project_Kris/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project_Kris/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project_Kris/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project_Kris/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project_Kris/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project_Kris/out/production/Project_Kris/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project_Kris/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/AddWholeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/AddWholeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/NumToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/NumToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/NumToWordsUsingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/NumToWordsUsingMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/VariableAssignmentActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/VariableAssignmentActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module4/activity/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module4/activity/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module4/activity/CalculatorClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module4/activity/CalculatorClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module6/activity/Employee_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module6/activity/Employee_I.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module6/activity/InheritanceActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module6/activity/InheritanceActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module6/activity/Person_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module6/activity/Person_I.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module6/activity/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module6/activity/Shape.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1zN96ywsdMH6n8KIdvZTHb84G3i" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1zOtxTcbAvJyNMF7Ib4ZXPPuKkH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,15 +64,94 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/sef/module6/activity/Shape.java" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
+  </component>
+  <component name="RunManager" selected="Application.AbstractionActivity">
+    <configuration name="AbstractionActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module6.activity.AbstractionActivity" />
+      <module name="SEF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module6.activity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module6.sample.AbstractionSample" />
+      <module name="SEF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module6.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module6.activity.InheritanceActivity" />
+      <module name="SEF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module6.activity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module6.sample.InterfaceSample" />
+      <module name="SEF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module6.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolymorphismSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module6.sample.PolymorphismSample" />
+      <module name="SEF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module6.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbstractionActivity" />
+        <item itemvalue="Application.AbstractionSample" />
+        <item itemvalue="Application.PolymorphismSample" />
+        <item itemvalue="Application.InheritanceActivity" />
+        <item itemvalue="Application.InterfaceSample" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a37c871c-23d9-4e39-8636-e421069684f0" name="Changes" comment="" />
-      <created>1633977512460</created>
+      <changelist id="e1bd4673-b281-4630-a002-21ea6c5c95e6" name="Changes" comment="" />
+      <created>1634031209856</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1633977512460</updated>
+      <updated>1634031209856</updated>
     </task>
     <servers />
   </component>

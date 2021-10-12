@@ -20,7 +20,5 @@ public class VariableAssignmentActivity {
 		number = 5;
 		// 3- Print updated value to the console
 		System.out.println("Updated number is: " + number);
-
 	}
-
 }

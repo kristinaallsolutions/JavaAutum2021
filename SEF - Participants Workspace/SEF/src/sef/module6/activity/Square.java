@@ -4,9 +4,12 @@ public class Square extends Shape {
 
     private double side;
 
+    Square() {
+        side = 0;
+    }
+
     Square(double side) {
         this.side = side;
-
     }
 
     public double calculateArea() {
@@ -15,7 +18,7 @@ public class Square extends Shape {
     }
 
     public double calculatePerimeter() {
-        double perimeter = 2 *(side + side);
+        double perimeter = 4 * side;
         return perimeter;
     }
 }

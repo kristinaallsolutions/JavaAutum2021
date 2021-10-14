@@ -1,7 +1,5 @@
 package sef.module6.activity;
 
-import sef.module6.sample.Person_I;
-
 // class Employee_I must extend class Person_I. Complete code for the same
 public class Employee_I extends Person_I {
 
@@ -10,30 +8,29 @@ public class Employee_I extends Person_I {
 	private String title;
 
 	//Behavior - write default constructor. Print 'I'm an Employee_I Constructor'
-
-	public Employee_I(){
-		System.out.println("I'm an Employee_I Constructor");
+	public Employee_I() {
+		this.salary = 0;
+		this.title = "Unknown";
+		System.out.println("I'm Employee_I constructor");
 	}
 
 	// write getter for int salary
-	public double getSalary () {
-		return salary; }
+	public double getSalary(){
+		return salary;
+	}
 
+	// write setter for int salary
 	public void setSalary(double salary){
 		this.salary = salary;
 	}
 
-	// write setter for int salary
-
+	// write getter for String title
 	public String getTitle(){
 		return title;
 	}
 
-	// write getter for String title
-	public void setTitle(String title) {
+	// write setter for String title
+	public void setTitle(String title){
 		this.title = title;
 	}
-
-	// write setter for String title
-
 }

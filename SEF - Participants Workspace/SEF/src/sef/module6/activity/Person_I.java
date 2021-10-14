@@ -5,49 +5,40 @@ package sef.module6.activity;
  */
 public class Person_I {
 
-
+    //Attributes
     private String name;
     private int age;
 
-
     //Behavior - write default constructor. Print 'I'm Person_I constructor'
-    {System.out.println( "I am Person_I Constructor");}
+    public Person_I() {
+        this.name = "Unknown";
+        this.age = 0;
+        System.out.println("I'm Person_I constructor");
+    }
 
     //Behavior - write parameterized constructor
-
-    public Person_I(String name, int age){
+    public Person_I(String name, int age) {
         this.name = name;
         this.age = age;
-
     }
-    public String getName (String name){
+
+    // write getter for String name
+    public String getName() {
         return name;
     }
 
-    // setter for String name
+    // write setter for String name
     public void setName(String name) {
         this.name = name;
     }
 
-    // getter for int age
+    // write getter for int age
     public int getAge() {
         return age;
     }
 
-    // setter for int age
+    // write setter for int age
     public void setAge(int age) {
         this.age = age;
     }
-
-    // This method is overloaded by Student sub class
-    public void address(String city, String state)
-    {System.out.println("*** address() method called in class Person_I ***");
-    }
-
-    // This method is overridden in Student class
-    public void announce(){
-        System.out.println("Inside Person Class");
-    }
-
-
 }

@@ -1,17 +1,24 @@
 package sef.module6.activity;
 
+public class AbstractionActivity {
 
+    public static void main(String[] args) {
+        Shape square = new Square(5);
 
-        public class AbstractionActivity {
-            public static void main(String[] args) {
-                Shape p1 = new Square(5);
+        System.out.println("--- Print the information for square ---");
+        System.out.println("Area of Square: " + square.calculateArea());
+        System.out.println("Perimeter of Square: " + square.calculatePerimeter());
 
-                p1.setColor("Red");
+        square.setColor("Red");
+        System.out.println("Square color: " + square.getColor());
 
-                System.out.println("*** Print the information for Square");
-                System.out.println("Colour of square: " + p1.getColor());
-                System.out.println("Area of Square: " + p1.calculateArea());
-                System.out.println("Perimeter of Square: " + p1.calculatePerimeter());
-            }
-        }
+        Shape rectangle = new Rectangle(5, 6);
 
+        System.out.println("--- Print the information for rectangle ---");
+        System.out.println("Area of Rectangle: " + rectangle.calculateArea());
+        System.out.println("Perimeter of Rectangle: " + rectangle.calculatePerimeter());
+
+        rectangle.setColor("Green");
+        System.out.println("Rectangle color: " + rectangle.getColor());
+    }
+}
